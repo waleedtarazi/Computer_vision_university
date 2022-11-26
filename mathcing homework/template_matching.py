@@ -26,7 +26,6 @@ for method in methods:
     cv.imshow('match' , image2)
     cv.waitKey(0)
     cv.destroyAllWindows()
-    print(" im happy")
 
 
 
